@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658067713438",
+    "project_id": "treasury-movement-sm",
+    "storage_bucket": "treasury-movement-sm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658067713438:android:43ae8a87b67565a284fa8f",
+        "android_client_info": {
+          "package_name": "com.example.treasury_movement_sm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qg1CYAlf5G72ptQ1gUc-z_vPjULE3PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
